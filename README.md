@@ -28,6 +28,8 @@ Submit. Input example, the program compares the inputs with the conditions set f
 ##### Output
 True value is output. Output example: You were born on Sunday and Your Akan name is Yaw!. If your gender is Male for the year 2010.
 
+#### Known bugs
+some values are not responsive.
 #### Live demo
 https://moseti007.github.io/Akan-Naming-Scheme/
 
